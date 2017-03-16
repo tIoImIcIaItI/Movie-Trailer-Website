@@ -22,6 +22,9 @@ No build process is needed.
 2. Ensure your system is able and configured to open local `.html` files in a modern web browser, and that you have internet access.
 3. Open [`/entertainment_center.py`](entertainment_center.py) in a Python interpreter.
 
+After running the app once, you may open the generated file [`fresh_tomatoes.html`](fresh_tomatoes.html) directly.
+A pre-built version of the file has been included for convenience.
+
 ## Using the App
 
 This Single Page Web App lists a selection of movies.
